@@ -60,7 +60,7 @@ After finding out that the issue is with the table that does not exists. Then we
 
 ![db-confirm](https://github.com/gopal0410/Metasploitable-2-Setup-Mutillidae-Fix/blob/master/images/db-confirm.png)
 
-After getting the list of databases in MySQL, we realize that `metasploit` table does exist so we check the tables within it by using the following commands
+After getting the list of databases in MySQL, we realize that `metasploit` database does exist so we check the tables within it by using the following commands
 `USE metasploit;`
 `SHOW TABLES;`
 
