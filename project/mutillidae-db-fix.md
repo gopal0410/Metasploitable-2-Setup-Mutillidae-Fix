@@ -71,7 +71,7 @@ But on further inspection of other databases, it is found that the database `owa
 
 ![owasp10](https://github.com/gopal0410/Metasploitable-2-Setup-Mutillidae-Fix/blob/master/images/owasp10.png)
 
-## Changing the DB used in Mutillidae
+## Searching for the Mutillidae config file
 
 Now that we know that Muntillidae was using the wrong database for its storage, we first begin with changing the directory to the directory where mutillidae exists. 
 It existed in `/var/www/mutillidae/`.
