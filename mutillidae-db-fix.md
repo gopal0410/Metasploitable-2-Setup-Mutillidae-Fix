@@ -115,7 +115,7 @@ Now that we have registered our account, our username and password will be prese
 
 Finally, we can see that we have successfully logged into Mutillidae and fixed its issue with the database.
 
-##Conclusion
+## Conclusion
 
 In this project, Metasploitable 2 was successfully set up as a virtual machine and configured with a bridged network adapter to enable proper network access. The hosted web application was then tested through a browser to verify its functionality. During this process, an error was encountered while attempting to log in to the application, which was traced to a database-related issue. After identifying and fixing the error, the application was tested again and confirmed to be working as intended without any issues. This project provided practical experience in setting up a vulnerable virtual environment and troubleshooting basic web application and database configuration problems.
 
