@@ -14,11 +14,11 @@ The default login and password is msfadmin:msfadmin.
 
 Metasploitable 2 was downloaded from [this](https://sourceforge.net/projects/metasploitable/) link here.
 
-After downloading Metasploitable 2 and run it on VMWare. The given link has files for VMWare.
+After downloading Metasploitable 2 then run it on VMWare. The given link has files for VMWare.
 
 ![metasploitable-2-launch](https://github.com/gopal0410/Metasploitable-2-Setup-Mutillidae-Fix/blob/master/images/metasploitable-2-setup-1.png)
 
-Changing the network adapted to bridged such that I can access its website from my windows.
+Changing the network adapter to bridged such that I can access its website from my windows.
 ![network-adapter-bridged](https://github.com/gopal0410/Metasploitable-2-Setup-Mutillidae-Fix/blob/master/images/network-adapter-bridged.png)
 
 ![metasploitable-2-setup-complete](https://github.com/gopal0410/Metasploitable-2-Setup-Mutillidae-Fix/blob/master/images/metasploitable-2-setup-complete.png)
