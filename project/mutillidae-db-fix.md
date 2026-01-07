@@ -73,7 +73,7 @@ But on further inspection of other databases, it is found that the database `owa
 
 ## Searching for the Mutillidae config file
 
-Now that we know that Muntillidae was using the wrong database for its storage, we first begin with changing the directory to the directory where mutillidae exists. 
+Now that we know that Mutillidae was using the wrong database for its storage, we first begin with changing the directory to the directory where mutillidae exists. 
 It existed in `/var/www/mutillidae/`.
 This directory was shown in the error, so we change our directory to that directory and then begin our change.
 
